@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Damien Gros Site"
+title                    : "Damien Gros"
 title_separator          : "-"
 name                     : &name "Damien Gros"
 description              : &description "personal description"
@@ -91,12 +91,12 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "https://github.com/dgros"
+  github           : "dgros"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/damien-gros-98729196/"
+  linkedin         : "damien-gros-98729196/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
