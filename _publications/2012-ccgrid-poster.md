@@ -1,0 +1,10 @@
+ TITLE = {{Advanced MAC in HPC systems: performance improvement}},
+  AUTHOR = {Gros, Damien and Briffaut, J{\'e}r{\'e}my and Toinard, Christian and Blanc, Mathieu},
+  URL = {https://hal.archives-ouvertes.fr/hal-01079329},
+  NOTE = {Poster},
+  HOWPUBLISHED = {{CCGRID'12}},
+  YEAR = {2012},
+  MONTH = May,
+  HAL_ID = {hal-01079329},
+  HAL_VERSION = {v1},
+
