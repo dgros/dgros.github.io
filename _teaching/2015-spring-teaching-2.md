@@ -1,20 +1,32 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching at Bourges"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+permalink: /teaching/Bourges
+venue: "ENSI de Bourges, Engineering School"
+date: 2010 to Now
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+3ième année d'école d'ingénieur
+Archtecture et Sécurité des systèmes
 
-Heading 1
+Cours : Windows operating system : architecture, security and develpment
+
+From Windows XP to 10
 ======
 
-Heading 2
-======
+BIOS/UEFI System start, services, user land, kernel land
 
-Heading 3
+
+The security mechanism
 ======
+SEH, SafeSEH
+Mandatory Integrity control
+EMET
+
+
+Kernel Deve
+======
+SSDT hooking
+DKOM
